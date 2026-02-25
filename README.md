@@ -44,7 +44,6 @@ Voici un aperçu visuel de l'application :
 - **Backend :** PHP (PDO).
 - **Base de données :** MySQL (phpMyAdmin).
 - **Frontend :** HTML5, CSS3, Bootstrap 5.
-- **Développement :** Réalisé avec **Cursor AI**.
 
 ---
 
